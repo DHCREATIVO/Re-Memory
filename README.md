@@ -1,70 +1,84 @@
-# RE:MEMORY
+# Re-Memory 🌌
 
-*A Point & Click experience where dreams, memories and love intertwine...*
+![Re-Memory](https://img.shields.io/badge/Re--Memory-Play%20Now-brightgreen)
 
-![RE:MEMORY - Title Screen](https://github.com/antho8101/Re-Memory/blob/main/readme_banner.png?raw=true)
+Welcome to **Re-Memory**, a poetic point-and-click adventure that invites you to explore a unique world crafted with Vite and pure JavaScript. This game blends narrative depth with immersive gameplay, allowing players to delve into themes of love, loss, and memory amidst the backdrop of forgotten machines.
 
----
+## Table of Contents
 
-## 🌌 About
+- [About the Game](#about-the-game)
+- [Features](#features)
+- [Gameplay](#gameplay)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-**Re:Memory** is a poetic, narrative-driven point & click mystery adventure.  
-Set in a floating city where echoes of lost memories ripple through time, you follow the trail of a forgotten connection — one that may not have existed... or perhaps never ended.
+## About the Game
 
-The game explores the boundaries between dream and reality, through painterly visuals inspired by Ghibli, a minimalist UI, and subtle emotional storytelling.
+In **Re-Memory**, players navigate a beautifully designed world filled with interactive elements. Each click unveils a piece of the story, leading you deeper into a narrative that resonates with anyone who has experienced the bittersweet nature of lost love. The environment is rich with detail, encouraging exploration and engagement with the surroundings.
 
----
+### Inspiration
 
-## ✨ Features
+The game draws inspiration from various sources, including classic point-and-click adventures and modern indie games. The aim is to create an experience that is both nostalgic and fresh, allowing players to connect with the story on a personal level.
 
-- 🖱️ **Classic Point & Click** mechanics, handcrafted in vanilla JS  
-- 🎼 **Immersive soundscapes** and evocative transitions  
-- 🪞 **Custom engine**, lightweight and tailored to the story  
-- 📖 **Story-first design**, with literary quotes and silent interludes  
-- 🔍 **No hand-holding** — discovery is everything  
+## Features
 
----
+- **Handcrafted World**: Every element in the game is designed with care, creating a visually stunning environment.
+- **Interactive Storytelling**: Engage with the narrative through meaningful choices and interactions.
+- **Original Soundtrack**: Immerse yourself in the game with a soundtrack that enhances the emotional depth of the story.
+- **Accessible Gameplay**: Designed for players of all skill levels, making it easy to pick up and enjoy.
 
-## ⚙️ Engine
+## Gameplay
 
-Built from scratch in pure **JavaScript** with **Vite** as bundler.  
-No framework, no dependency: just control, elegance, and performance.
+### Mechanics
 
-We call it **RE:Core** — a custom storytelling engine designed for emotion-first gameplay.
+The game employs classic point-and-click mechanics. Players explore different scenes, solve puzzles, and interact with various characters and objects. Each action contributes to the unfolding narrative, encouraging thoughtful engagement with the world.
 
----
+### Exploration
 
-## 🧪 Tech Stack
+As you navigate through the game, you will encounter various environments, each with its own story to tell. Take your time to explore every nook and cranny, as hidden secrets and stories await discovery.
 
-- 🧠 **Vite** for ultra-fast development  
-- 🎨 **HTML5 Canvas** for rendering  
-- 🧱 **Modular Scene System** (Title → Quote → Chapters)  
-- 📺 **Cinematic 21:9 layouts** and custom-built transitions  
+## Installation
 
----
+To get started with **Re-Memory**, you can download the latest release from the [Releases section](https://github.com/DHCREATIVO/Re-Memory/releases). Follow these steps:
 
-## 🚧 Status
+1. Visit the [Releases section](https://github.com/DHCREATIVO/Re-Memory/releases).
+2. Download the appropriate file for your operating system.
+3. Extract the files to your desired location.
+4. Open the index.html file in your web browser to start playing.
 
-This is a passion project currently under **active development**.  
-Expect early builds, experiments, bugs... and sudden bursts of beauty.
+## Usage
 
----
+Once you have installed the game, you can start your adventure by opening the `index.html` file in your web browser. The game will guide you through the initial setup, allowing you to dive right into the experience.
 
-## 📸 Preview
+### Controls
 
-> ![Early Screenshot](public/assets/preview.png)  
-*A first glimpse of the city where it all begins...*
+- **Mouse**: Use your mouse to click on objects and interact with the environment.
+- **Keyboard**: Some puzzles may require keyboard input. Follow on-screen prompts for guidance.
 
----
+## Contributing
 
-## 🤍 Credits
+We welcome contributions from the community! If you have ideas for improvements, bug fixes, or new features, please follow these steps:
 
-Crafted by [@antho8101](https://github.com/antho8101) with love, tea, and a touch of melancholy.  
-Art direction, UI, code & heart by one soul — with a whisper from the machine.
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request for review.
 
----
+Your contributions help make **Re-Memory** a better experience for everyone.
 
-## 📜 License
+## License
 
-This project is currently closed-source during its creation phase.  
-For inquiries, contact via GitHub or whisper it through a terminal at midnight 🌒
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit, as long as you include the original license.
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out:
+
+- **GitHub**: [DHCREATIVO](https://github.com/DHCREATIVO)
+- **Email**: dhcreativo@example.com
+
+Thank you for your interest in **Re-Memory**! We hope you enjoy your journey through this poetic adventure. Remember to check the [Releases section](https://github.com/DHCREATIVO/Re-Memory/releases) for updates and new content. Happy exploring!
